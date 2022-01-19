@@ -1,0 +1,51 @@
+[Directories]
+Include=C:\Users\222ru\Desktop\IFTM\Sistemas microprocessados\PICC\Devices;C:\Users\222ru\Desktop\IFTM\Sistemas microprocessados\PICC\Drivers;C:\Users\222ru\Desktop\IFTM\Sistemas microprocessados\PICC\Drivers;C:\Users\222ru\Desktop\IFTM\Sistemas microprocessados\PICC\Devices;
+Library=
+LinkerScript=
+[defines]
+enabled=0
+D1=
+V1=
+[fileformats]
+forcecoff=0
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+[PROJECT]
+Target=RELOGIO DIGITAL.hex
+Development_Mode=
+Processor=0x874A
+Processor_Text=PIC16F874A
+ToolSuite=CCS
+[Target Data]
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+[RELOGIO DIGITAL.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=RELOGIO DIGITAL.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=RELOGIO DIGITAL.c
+[Opened Files]
+1=C:\Users\222ru\Desktop\Recuperações\JV\RELOGIO DIGITAL.c
+2=C:\Users\222ru\Desktop\IFTM\Sistemas microprocessados\Source files\Projeto_catraca.c
+3=
